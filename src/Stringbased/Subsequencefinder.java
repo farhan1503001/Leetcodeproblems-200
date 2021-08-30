@@ -1,4 +1,4 @@
-package BasicIntegerproblems;
+package Stringbased;
 
 public class Subsequencefinder {
 	public static boolean isSubsequence(String s,String t) {

@@ -1,4 +1,4 @@
-package BasicIntegerproblems;
+package Stringbased;
 
 import java.util.ArrayList;
 import java.util.HashMap;

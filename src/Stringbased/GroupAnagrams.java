@@ -1,4 +1,4 @@
-package BasicIntegerproblems;
+package Stringbased;
 import java.util.*;
 public class GroupAnagrams {
 	public static List<List<String>> groupAnagram(String[] strs) {

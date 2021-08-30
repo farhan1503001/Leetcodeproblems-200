@@ -1,4 +1,4 @@
-package BasicIntegerproblems;
+package Stringbased;
 public class Reversewords {
 	public static String reverseword(String s) {
 		s=s.strip();

@@ -1,4 +1,4 @@
-package BasicIntegerproblems;
+package Stringbased;
 
 public class Reversestring {
 	public static void reverseString(char[] s) {
